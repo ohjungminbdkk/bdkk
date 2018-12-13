@@ -6,6 +6,9 @@ permalink: /about/
 <div class="mt50"></div>
 ![aboutimg macaron]({{site.baseurl}}/images/aboutimg.jpg)
 
+<details>
+<summary>인사말</summary>
+<div markdown="1">
 안녕하세요.
 
 드디어 여러번 시행착오 끝에 블로그가 생겼습니다.
@@ -24,6 +27,11 @@ permalink: /about/
 뭔가 한개쯤은 스스로 해보고 프로젝트 또는 발전방향이 생길 것 같습니다.
 
 그날이 오기를 희망합니다.
+
+</div>
+</details>
+
+
 
 ---
 
