@@ -5,6 +5,7 @@ permalink: /project/
 ---
 
 1. 프로젝트 개요
+
  | 비고 |   내용 |
 |--------|--------|
 |팅명|おかわり |
@@ -18,6 +19,7 @@ permalink: /project/
 ||4. JSP/Servlet을 통해 Web(Tomcat) 환경으로 구현|
 
 2. 프로젝트 구축환경
+
 | 비고 |   내용 |
 |--------|--------|
 |운영체제|Windows7 / Windows10 64bit |
@@ -28,11 +30,14 @@ permalink: /project/
 ||Bootstrap ver 3.3.2|
 
 3. 기능소개
+
+
 ||로그인페이지|
 |--------|--------|
 |기능설명|로그인|
 |역할|로그인 시 유저/지점/본사 여부를 판단해서 각 페이지 접근|
-|웹페이지||
+|웹페이지|![Image of login](https://ohjungmin.github.com/images/project/team2(okawari)/0.main.jpg)
+|
 
 
 
