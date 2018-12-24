@@ -1,8 +1,11 @@
-Demo: [http://webjeda.com/gatok](http://webjeda.com/gatok)
+Tech-Blog: [https://ohjungminbdkk.github.io/](https://ohjungminbdkk.github.io/)
 
-## Installation
-* Fork the repository
-* Go to settings and set Github Pages source as master.
-* Your new site should be ready.
+## About
+* 
+* 
+* 
 
-For more themes visit - [https://jekyll-themes.com](https://jekyll-themes.com)
+## Post
+* 
+* 
+* 
