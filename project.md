@@ -4,9 +4,6 @@ title: Project
 permalink: /project/
 ---
 
-<details>
-<summary>## 팀프로젝트 #2</summary>
-<div markdown="1">
 1. 프로젝트 개요
  | 비고 |   내용 |
 |--------|--------|
@@ -38,7 +35,4 @@ permalink: /project/
 |웹페이지||
 
 
-
-</div>
-</details>
 
