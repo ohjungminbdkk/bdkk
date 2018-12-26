@@ -1664,7 +1664,7 @@ table th[class*="col-"] {
     white-space: nowrap;
   }
   .table-responsive > .table-bordered {
-    border: 1px solid #dddddd;
+    border: 0;
   }
   .table-responsive > .table-bordered > thead > tr > th:first-child,
   .table-responsive > .table-bordered > tbody > tr > th:first-child,
