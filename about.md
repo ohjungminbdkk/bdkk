@@ -5,11 +5,6 @@
 ## 소개
 ![프로필이미지](https://)
 - 이름: 오정민
-- 군필여부: 현 병역특례 복무중 (2급 현역), 2020.09.16 전역예정
-
-클린코더에 나온 말처럼, **창의적인 출력은 창의적인 입력에서 나온다**고 생각합니다. <br/>
-색다르고 다양한 것들을 해보고 있습니다.
-
 - 취미: 클래식기타
 - Email: bdkk0209@hotmail.com
 - GitHub: [ohjungminbdkk.github.io](https://ohjungminbdkk.github.io)
