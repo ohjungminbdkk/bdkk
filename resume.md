@@ -4,19 +4,17 @@ title: About2
 permalink: /about2/
 ---
 
-![aboutimg macaron]({{site.baseurl}}/images/aboutimg.jpg)
+![about-top-img]({{site.baseurl}}/images/about-top-img.jpg)
 
 # 이력서
 
 [한국어](./README.md) [English](./README_en.md)
 
 ## 소개
-![프로필이미지](https://github.com/ohjungminbdkk/RESUME/raw/master/images/profile.jpeg)
-- 이름: 오정민
-- 군필여부: 현 병역특례 복무중 (2급 현역), 2020.09.16 전역예정
+![프로필이미지]({{site.baseurl}}/images/profile.jpg){:width="250" height="250"}
 
-클린코더에 나온 말처럼, **창의적인 출력은 창의적인 입력에서 나온다**고 생각합니다. <br/>
-색다르고 다양한 것들을 해보고 있습니다.
+- 마카롱 만드는 개발자
+- 이름: 오정민
 
 - 취미: 클래식기타
 - Email: bdkk0209@hotmail.com
